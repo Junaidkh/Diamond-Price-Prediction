@@ -1,7 +1,8 @@
 # Diamond-Price-Prediction
 In this repository we are going to Predict the price of Diamond on the basis of it's shape and other features. All the features are described below:
 
-<img src="../image/diamond.jpg">
+<img src="https://github.com/Junaidkh/Diamond-Price-Prediction/blob/master/image/diamond.jpeg" height="300" width="400">
+
 
 ### Data Description
 <li>Price is in US dollars</li>
