@@ -5,7 +5,7 @@ In this repository we are going to Predict the price of Diamond on the basis of 
 
 
 ### Data Description
-<li>Price is in US dollars</li>
+<li><strong>Price</strong> is in US dollars</li>
 <li>Carat weight of the diamond</li>
 <li>Cut quality of the cut (Fair, Good, Very Good, Premium, Ideal)</li>
 <li>color diamond colour, from J (worst) to D (best)</li>
